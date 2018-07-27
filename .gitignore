@@ -1,0 +1,4 @@
+*.jpg
+images
+output
+node_modules
